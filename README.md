@@ -1,1 +1,1 @@
-# Titanic-Dataset
+# Titanic_Survival_Prediction
